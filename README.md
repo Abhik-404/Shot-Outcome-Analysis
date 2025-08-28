@@ -1,6 +1,3 @@
-Here’s a **README description** for your GitHub repository, crafted in the same style as your reference but tailored to your *“Anatomy of a Goal”* project:
-
----
 
 # The Anatomy of a Goal
 
