@@ -62,6 +62,4 @@ For questions, collaborations, or feedback:
 
 📧 Email: **[abhikmukherjee1234@gmail.com](mailto:abhikmukherjee1234@gmail.com)**
 
----
 
-Would you like me to also create a **short “Features” section** (bullet points about repo contents: scripts, data processing, plots, models) so recruiters/visitors know exactly what’s inside at a glance?
